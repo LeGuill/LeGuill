@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Guillaume Loréa!
 
 ## 💻 Junior Web Developer | Former Business Analyst | Curious Mind
