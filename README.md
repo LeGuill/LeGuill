@@ -56,7 +56,6 @@ Currently enrolled in the **BeCode Junior Web Developer** program (Liège), I’
 
 - 📍 Liège, Belgium  
 - 📧 [guillaume_lorea@hotmail.be](mailto:guillaume_lorea@hotmail.be)  
-- 📱 +32 497 12 95 51  
 
 ---
 
