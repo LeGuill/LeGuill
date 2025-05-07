@@ -8,7 +8,7 @@ Passionate about technology and driven by a constant desire to learn, I’m curr
 
 ## 🔧 Tech Stack & Tools
 
-- **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
+- **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, HTML, CSS, Flutter
 - **Backend:** Node.js, PHP, Laravel
 - **Other Tools & Systems:** Git & GitHub, Microsoft Office Suite, SAP (SD, SOLMAN, ISU), Omnitracker
 
